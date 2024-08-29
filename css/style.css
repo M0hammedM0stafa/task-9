@@ -1,0 +1,66 @@
+.task01{
+
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px red, 4px 4px blue, 6px 6px  blueviolet;
+
+}
+
+/* -------------------------------------------------------------------------------------- */
+.one{
+
+    text-transform: uppercase;
+}
+
+.two{
+    text-transform: capitalize;
+}
+
+.three{
+
+   text-transform: lowercase;
+}
+
+/* ------------------------------------------------------------------ -----------------------*/
+
+.task03-1{
+
+    width: 400px;
+    background-color: rgb(238, 234, 234);
+    padding: 15px;
+}
+.task03-2{
+
+    width: 400px;
+    background-color: rgb(238, 234, 234);
+    padding: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+}
+.task03-3{
+
+    width: 400px;
+    background-color: rgb(238, 234, 234);
+    padding: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* ------------------------------------------------------------------------------------------------- */
+body{
+    text-align: center;
+}
+.task04{
+
+    text-decoration: none;
+    background-color: rgb(12, 148, 123);
+    color: white;
+    text-transform: capitalize;
+    padding: 15px;
+    border-bottom: 7px solid rgb(4, 62, 51);
+    /* text-align: center; */
+    /* margin-left: 50%; */
+  
+}
